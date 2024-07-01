@@ -1,0 +1,2032 @@
+{
+    "text": " Hello, good afternoon. Hello, good afternoon. Hello, good afternoon. Good afternoon, can I speak? My name is Samara, I am one of the managers here at Lucky Star's betting company. How are you? All good. I am getting in touch with some clients who made some deposits with us here on the platform. And these deposits were generated a bonus value, but you didn't manage to use this bonus and it is about to be canceled. So we are getting in touch with you clients to know if you saw your bonus value on the platform or if you didn't manage to use it. No, I didn't manage to use it. I didn't even look at it. So you didn't see the bonus value, right? Yes. Right. Which platform is it? It is Lucky Star. Do you remember which platform it is? I don't remember. Do you have a way to send it to me on WhatsApp? I have a meeting here and I can't speak right now. Is there any other time I could return to you just to be able to pass the information? After 6 p.m. After 6 p.m. I am only here until 5 p.m. I couldn't get to this time? All right, all right, thank you. All right, I thank you. Bye, bye.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.9399999999999991,
+            "end": 2.34,
+            "text": " Hello, good afternoon.",
+            "tokens": [
+                50365,
+                2425,
+                11,
+                665,
+                6499,
+                13,
+                50465
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33803429714469024,
+            "compression_ratio": 1.6857142857142857,
+            "no_speech_prob": 0.08872556686401367,
+            "words": [
+                {
+                    "word": " Hello,",
+                    "start": 0.9399999999999991,
+                    "end": 1.48,
+                    "probability": 0.5721991658210754
+                },
+                {
+                    "word": " good",
+                    "start": 1.8,
+                    "end": 2.06,
+                    "probability": 0.8343661427497864
+                },
+                {
+                    "word": " afternoon.",
+                    "start": 2.06,
+                    "end": 2.34,
+                    "probability": 0.9837982058525085
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.52,
+            "end": 4.48,
+            "text": " Hello, good afternoon.",
+            "tokens": [
+                50465,
+                2425,
+                11,
+                665,
+                6499,
+                13,
+                50565
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33803429714469024,
+            "compression_ratio": 1.6857142857142857,
+            "no_speech_prob": 0.08872556686401367,
+            "words": [
+                {
+                    "word": " Hello,",
+                    "start": 3.52,
+                    "end": 4.06,
+                    "probability": 0.45549270510673523
+                },
+                {
+                    "word": " good",
+                    "start": 4.08,
+                    "end": 4.26,
+                    "probability": 0.9579305052757263
+                },
+                {
+                    "word": " afternoon.",
+                    "start": 4.26,
+                    "end": 4.48,
+                    "probability": 0.9995735287666321
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.78,
+            "end": 5.0,
+            "text": " Hello, good afternoon.",
+            "tokens": [
+                50565,
+                2425,
+                11,
+                665,
+                6499,
+                13,
+                50665
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33803429714469024,
+            "compression_ratio": 1.6857142857142857,
+            "no_speech_prob": 0.08872556686401367,
+            "words": [
+                {
+                    "word": " Hello,",
+                    "start": 4.78,
+                    "end": 5.0,
+                    "probability": 0.1268516480922699
+                },
+                {
+                    "word": " good",
+                    "start": 5.0,
+                    "end": 5.0,
+                    "probability": 0.9812281727790833
+                },
+                {
+                    "word": " afternoon.",
+                    "start": 5.0,
+                    "end": 5.0,
+                    "probability": 0.9998096823692322
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 5.86,
+            "end": 7.36,
+            "text": " Good afternoon, can I speak?",
+            "tokens": [
+                50665,
+                2205,
+                6499,
+                11,
+                393,
+                286,
+                1710,
+                30,
+                50765
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33803429714469024,
+            "compression_ratio": 1.6857142857142857,
+            "no_speech_prob": 0.08872556686401367,
+            "words": [
+                {
+                    "word": " Good",
+                    "start": 5.86,
+                    "end": 6.4,
+                    "probability": 0.6502178907394409
+                },
+                {
+                    "word": " afternoon,",
+                    "start": 6.4,
+                    "end": 6.66,
+                    "probability": 0.9926692247390747
+                },
+                {
+                    "word": " can",
+                    "start": 6.92,
+                    "end": 7.12,
+                    "probability": 0.5130093693733215
+                },
+                {
+                    "word": " I",
+                    "start": 7.12,
+                    "end": 7.24,
+                    "probability": 0.7389479875564575
+                },
+                {
+                    "word": " speak?",
+                    "start": 7.24,
+                    "end": 7.36,
+                    "probability": 0.609011709690094
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 7.74,
+            "end": 12.48,
+            "text": " My name is Samara, I am one of the managers here at Lucky Star's betting company.",
+            "tokens": [
+                50765,
+                1222,
+                1315,
+                307,
+                4832,
+                2419,
+                11,
+                286,
+                669,
+                472,
+                295,
+                264,
+                14084,
+                510,
+                412,
+                26639,
+                5705,
+                311,
+                34246,
+                2237,
+                13,
+                51015
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33803429714469024,
+            "compression_ratio": 1.6857142857142857,
+            "no_speech_prob": 0.08872556686401367,
+            "words": [
+                {
+                    "word": " My",
+                    "start": 7.74,
+                    "end": 8.28,
+                    "probability": 0.7972226738929749
+                },
+                {
+                    "word": " name",
+                    "start": 8.28,
+                    "end": 8.5,
+                    "probability": 0.9974800944328308
+                },
+                {
+                    "word": " is",
+                    "start": 8.5,
+                    "end": 8.6,
+                    "probability": 0.9805721044540405
+                },
+                {
+                    "word": " Samara,",
+                    "start": 8.6,
+                    "end": 9.24,
+                    "probability": 0.9911928474903107
+                },
+                {
+                    "word": " I",
+                    "start": 9.42,
+                    "end": 9.74,
+                    "probability": 0.6686650514602661
+                },
+                {
+                    "word": " am",
+                    "start": 9.74,
+                    "end": 10.02,
+                    "probability": 0.6660193204879761
+                },
+                {
+                    "word": " one",
+                    "start": 10.02,
+                    "end": 10.28,
+                    "probability": 0.7956826686859131
+                },
+                {
+                    "word": " of",
+                    "start": 10.28,
+                    "end": 10.36,
+                    "probability": 0.9962334036827087
+                },
+                {
+                    "word": " the",
+                    "start": 10.36,
+                    "end": 10.5,
+                    "probability": 0.9736828804016113
+                },
+                {
+                    "word": " managers",
+                    "start": 10.5,
+                    "end": 10.68,
+                    "probability": 0.9386420249938965
+                },
+                {
+                    "word": " here",
+                    "start": 10.68,
+                    "end": 11.04,
+                    "probability": 0.5862170457839966
+                },
+                {
+                    "word": " at",
+                    "start": 11.04,
+                    "end": 11.18,
+                    "probability": 0.44999706745147705
+                },
+                {
+                    "word": " Lucky",
+                    "start": 11.18,
+                    "end": 12.02,
+                    "probability": 0.479501873254776
+                },
+                {
+                    "word": " Star's",
+                    "start": 12.02,
+                    "end": 12.02,
+                    "probability": 0.3706420361995697
+                },
+                {
+                    "word": " betting",
+                    "start": 12.02,
+                    "end": 12.02,
+                    "probability": 0.5089696645736694
+                },
+                {
+                    "word": " company.",
+                    "start": 12.02,
+                    "end": 12.48,
+                    "probability": 0.9666759371757507
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 13.1,
+            "end": 13.84,
+            "text": " How are you?",
+            "tokens": [
+                51015,
+                1012,
+                366,
+                291,
+                30,
+                51115
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33803429714469024,
+            "compression_ratio": 1.6857142857142857,
+            "no_speech_prob": 0.08872556686401367,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 13.1,
+                    "end": 13.58,
+                    "probability": 0.6636706590652466
+                },
+                {
+                    "word": " are",
+                    "start": 13.58,
+                    "end": 13.68,
+                    "probability": 0.9137341976165771
+                },
+                {
+                    "word": " you?",
+                    "start": 13.68,
+                    "end": 13.84,
+                    "probability": 0.989635169506073
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 15.56,
+            "end": 16.3,
+            "text": " All good.",
+            "tokens": [
+                51115,
+                1057,
+                665,
+                13,
+                51215
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33803429714469024,
+            "compression_ratio": 1.6857142857142857,
+            "no_speech_prob": 0.08872556686401367,
+            "words": [
+                {
+                    "word": " All",
+                    "start": 15.56,
+                    "end": 16.1,
+                    "probability": 0.231413796544075
+                },
+                {
+                    "word": " good.",
+                    "start": 16.1,
+                    "end": 16.3,
+                    "probability": 0.7250847816467285
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 16.94,
+            "end": 23.0,
+            "text": " I am getting in touch with some clients who made some deposits with us here on the platform.",
+            "tokens": [
+                51215,
+                286,
+                669,
+                1242,
+                294,
+                2557,
+                365,
+                512,
+                6982,
+                567,
+                1027,
+                512,
+                30958,
+                365,
+                505,
+                510,
+                322,
+                264,
+                3663,
+                13,
+                51565
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33803429714469024,
+            "compression_ratio": 1.6857142857142857,
+            "no_speech_prob": 0.08872556686401367,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 16.94,
+                    "end": 17.48,
+                    "probability": 0.965986430644989
+                },
+                {
+                    "word": " am",
+                    "start": 17.48,
+                    "end": 17.7,
+                    "probability": 0.5860127806663513
+                },
+                {
+                    "word": " getting",
+                    "start": 17.7,
+                    "end": 17.82,
+                    "probability": 0.45455461740493774
+                },
+                {
+                    "word": " in",
+                    "start": 17.82,
+                    "end": 18.04,
+                    "probability": 0.9258267879486084
+                },
+                {
+                    "word": " touch",
+                    "start": 18.04,
+                    "end": 18.38,
+                    "probability": 0.9303039908409119
+                },
+                {
+                    "word": " with",
+                    "start": 18.38,
+                    "end": 18.68,
+                    "probability": 0.9961749315261841
+                },
+                {
+                    "word": " some",
+                    "start": 18.68,
+                    "end": 18.94,
+                    "probability": 0.9321063160896301
+                },
+                {
+                    "word": " clients",
+                    "start": 18.94,
+                    "end": 19.38,
+                    "probability": 0.5652780532836914
+                },
+                {
+                    "word": " who",
+                    "start": 19.38,
+                    "end": 19.98,
+                    "probability": 0.4885370433330536
+                },
+                {
+                    "word": " made",
+                    "start": 19.98,
+                    "end": 20.3,
+                    "probability": 0.5968870520591736
+                },
+                {
+                    "word": " some",
+                    "start": 20.3,
+                    "end": 20.66,
+                    "probability": 0.8848424553871155
+                },
+                {
+                    "word": " deposits",
+                    "start": 20.66,
+                    "end": 21.22,
+                    "probability": 0.967166006565094
+                },
+                {
+                    "word": " with",
+                    "start": 21.22,
+                    "end": 21.66,
+                    "probability": 0.8090219497680664
+                },
+                {
+                    "word": " us",
+                    "start": 21.66,
+                    "end": 21.94,
+                    "probability": 0.9942371845245361
+                },
+                {
+                    "word": " here",
+                    "start": 21.94,
+                    "end": 22.2,
+                    "probability": 0.8466878533363342
+                },
+                {
+                    "word": " on",
+                    "start": 22.2,
+                    "end": 22.4,
+                    "probability": 0.5392822623252869
+                },
+                {
+                    "word": " the",
+                    "start": 22.4,
+                    "end": 22.7,
+                    "probability": 0.9363749027252197
+                },
+                {
+                    "word": " platform.",
+                    "start": 22.7,
+                    "end": 23.0,
+                    "probability": 0.9880753755569458
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2300,
+            "start": 23.0,
+            "end": 31.7,
+            "text": " And these deposits were generated a bonus value, but you didn't manage to use this bonus and it is about to be canceled.",
+            "tokens": [
+                50365,
+                400,
+                613,
+                30958,
+                645,
+                10833,
+                257,
+                10882,
+                2158,
+                11,
+                457,
+                291,
+                994,
+                380,
+                3067,
+                281,
+                764,
+                341,
+                10882,
+                293,
+                309,
+                307,
+                466,
+                281,
+                312,
+                24839,
+                13,
+                50815
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3702409817622258,
+            "compression_ratio": 1.7832512315270936,
+            "no_speech_prob": 0.004213967360556126,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 23.0,
+                    "end": 23.76,
+                    "probability": 0.03510915860533714
+                },
+                {
+                    "word": " these",
+                    "start": 23.76,
+                    "end": 24.4,
+                    "probability": 0.11995631456375122
+                },
+                {
+                    "word": " deposits",
+                    "start": 24.4,
+                    "end": 24.84,
+                    "probability": 0.8197517991065979
+                },
+                {
+                    "word": " were",
+                    "start": 24.84,
+                    "end": 25.34,
+                    "probability": 0.18272800743579865
+                },
+                {
+                    "word": " generated",
+                    "start": 25.34,
+                    "end": 26.1,
+                    "probability": 0.7709945440292358
+                },
+                {
+                    "word": " a",
+                    "start": 26.1,
+                    "end": 26.44,
+                    "probability": 0.49524083733558655
+                },
+                {
+                    "word": " bonus",
+                    "start": 26.44,
+                    "end": 26.8,
+                    "probability": 0.4215681552886963
+                },
+                {
+                    "word": " value,",
+                    "start": 26.8,
+                    "end": 27.38,
+                    "probability": 0.7355894446372986
+                },
+                {
+                    "word": " but",
+                    "start": 27.38,
+                    "end": 27.76,
+                    "probability": 0.7080881595611572
+                },
+                {
+                    "word": " you",
+                    "start": 27.76,
+                    "end": 28.16,
+                    "probability": 0.9087526202201843
+                },
+                {
+                    "word": " didn't",
+                    "start": 28.16,
+                    "end": 28.48,
+                    "probability": 0.6456833481788635
+                },
+                {
+                    "word": " manage",
+                    "start": 28.48,
+                    "end": 28.64,
+                    "probability": 0.19113141298294067
+                },
+                {
+                    "word": " to",
+                    "start": 28.64,
+                    "end": 28.98,
+                    "probability": 0.9765436053276062
+                },
+                {
+                    "word": " use",
+                    "start": 28.98,
+                    "end": 29.38,
+                    "probability": 0.4815395772457123
+                },
+                {
+                    "word": " this",
+                    "start": 29.38,
+                    "end": 30.06,
+                    "probability": 0.3719964027404785
+                },
+                {
+                    "word": " bonus",
+                    "start": 30.06,
+                    "end": 30.4,
+                    "probability": 0.9331464767456055
+                },
+                {
+                    "word": " and",
+                    "start": 30.4,
+                    "end": 30.64,
+                    "probability": 0.658058226108551
+                },
+                {
+                    "word": " it",
+                    "start": 30.64,
+                    "end": 30.76,
+                    "probability": 0.8315046429634094
+                },
+                {
+                    "word": " is",
+                    "start": 30.76,
+                    "end": 30.96,
+                    "probability": 0.3917764127254486
+                },
+                {
+                    "word": " about",
+                    "start": 30.96,
+                    "end": 31.04,
+                    "probability": 0.3740997016429901
+                },
+                {
+                    "word": " to",
+                    "start": 31.04,
+                    "end": 31.18,
+                    "probability": 0.9898883700370789
+                },
+                {
+                    "word": " be",
+                    "start": 31.18,
+                    "end": 31.28,
+                    "probability": 0.9477173089981079
+                },
+                {
+                    "word": " canceled.",
+                    "start": 31.28,
+                    "end": 31.7,
+                    "probability": 0.6693745255470276
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 2300,
+            "start": 32.38,
+            "end": 43.48,
+            "text": " So we are getting in touch with you clients to know if you saw your bonus value on the platform or if you didn't manage to use it.",
+            "tokens": [
+                50815,
+                407,
+                321,
+                366,
+                1242,
+                294,
+                2557,
+                365,
+                291,
+                6982,
+                281,
+                458,
+                498,
+                291,
+                1866,
+                428,
+                10882,
+                2158,
+                322,
+                264,
+                3663,
+                420,
+                498,
+                291,
+                994,
+                380,
+                3067,
+                281,
+                764,
+                309,
+                13,
+                51415
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3702409817622258,
+            "compression_ratio": 1.7832512315270936,
+            "no_speech_prob": 0.004213967360556126,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 32.38,
+                    "end": 33.06,
+                    "probability": 0.37589532136917114
+                },
+                {
+                    "word": " we",
+                    "start": 33.06,
+                    "end": 33.34,
+                    "probability": 0.6764817833900452
+                },
+                {
+                    "word": " are",
+                    "start": 33.34,
+                    "end": 33.62,
+                    "probability": 0.7663629651069641
+                },
+                {
+                    "word": " getting",
+                    "start": 33.62,
+                    "end": 33.92,
+                    "probability": 0.07708024233579636
+                },
+                {
+                    "word": " in",
+                    "start": 33.92,
+                    "end": 34.16,
+                    "probability": 0.792497992515564
+                },
+                {
+                    "word": " touch",
+                    "start": 34.16,
+                    "end": 34.38,
+                    "probability": 0.7352283000946045
+                },
+                {
+                    "word": " with",
+                    "start": 34.38,
+                    "end": 34.84,
+                    "probability": 0.9891854524612427
+                },
+                {
+                    "word": " you",
+                    "start": 34.84,
+                    "end": 35.1,
+                    "probability": 0.7968063354492188
+                },
+                {
+                    "word": " clients",
+                    "start": 35.1,
+                    "end": 35.66,
+                    "probability": 0.47698378562927246
+                },
+                {
+                    "word": " to",
+                    "start": 35.66,
+                    "end": 36.2,
+                    "probability": 0.8325914740562439
+                },
+                {
+                    "word": " know",
+                    "start": 36.2,
+                    "end": 36.46,
+                    "probability": 0.692676842212677
+                },
+                {
+                    "word": " if",
+                    "start": 36.46,
+                    "end": 36.68,
+                    "probability": 0.9329661130905151
+                },
+                {
+                    "word": " you",
+                    "start": 36.68,
+                    "end": 37.04,
+                    "probability": 0.8803806900978088
+                },
+                {
+                    "word": " saw",
+                    "start": 37.04,
+                    "end": 37.48,
+                    "probability": 0.2302359938621521
+                },
+                {
+                    "word": " your",
+                    "start": 37.48,
+                    "end": 38.06,
+                    "probability": 0.8733981847763062
+                },
+                {
+                    "word": " bonus",
+                    "start": 38.06,
+                    "end": 38.54,
+                    "probability": 0.9176945090293884
+                },
+                {
+                    "word": " value",
+                    "start": 38.54,
+                    "end": 39.16,
+                    "probability": 0.9426901936531067
+                },
+                {
+                    "word": " on",
+                    "start": 39.16,
+                    "end": 39.26,
+                    "probability": 0.15674763917922974
+                },
+                {
+                    "word": " the",
+                    "start": 39.26,
+                    "end": 39.52,
+                    "probability": 0.9688847661018372
+                },
+                {
+                    "word": " platform",
+                    "start": 39.52,
+                    "end": 39.86,
+                    "probability": 0.9824410080909729
+                },
+                {
+                    "word": " or",
+                    "start": 39.86,
+                    "end": 40.68,
+                    "probability": 0.6493968367576599
+                },
+                {
+                    "word": " if",
+                    "start": 40.68,
+                    "end": 41.06,
+                    "probability": 0.8401532173156738
+                },
+                {
+                    "word": " you",
+                    "start": 41.06,
+                    "end": 41.44,
+                    "probability": 0.9761511087417603
+                },
+                {
+                    "word": " didn't",
+                    "start": 41.44,
+                    "end": 41.76,
+                    "probability": 0.6630545407533646
+                },
+                {
+                    "word": " manage",
+                    "start": 41.76,
+                    "end": 42.0,
+                    "probability": 0.9489803910255432
+                },
+                {
+                    "word": " to",
+                    "start": 42.0,
+                    "end": 42.36,
+                    "probability": 0.9875685572624207
+                },
+                {
+                    "word": " use",
+                    "start": 42.36,
+                    "end": 42.7,
+                    "probability": 0.7213696837425232
+                },
+                {
+                    "word": " it.",
+                    "start": 42.7,
+                    "end": 43.48,
+                    "probability": 0.8450059294700623
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 2300,
+            "start": 44.52,
+            "end": 45.96,
+            "text": " No, I didn't manage to use it.",
+            "tokens": [
+                51415,
+                883,
+                11,
+                286,
+                994,
+                380,
+                3067,
+                281,
+                764,
+                309,
+                13,
+                51515
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3702409817622258,
+            "compression_ratio": 1.7832512315270936,
+            "no_speech_prob": 0.004213967360556126,
+            "words": [
+                {
+                    "word": " No,",
+                    "start": 44.52,
+                    "end": 45.2,
+                    "probability": 0.6050786972045898
+                },
+                {
+                    "word": " I",
+                    "start": 45.32,
+                    "end": 45.48,
+                    "probability": 0.9490740299224854
+                },
+                {
+                    "word": " didn't",
+                    "start": 45.48,
+                    "end": 45.5,
+                    "probability": 0.7931672036647797
+                },
+                {
+                    "word": " manage",
+                    "start": 45.5,
+                    "end": 45.72,
+                    "probability": 0.25012457370758057
+                },
+                {
+                    "word": " to",
+                    "start": 45.72,
+                    "end": 45.94,
+                    "probability": 0.5110480785369873
+                },
+                {
+                    "word": " use",
+                    "start": 45.94,
+                    "end": 45.96,
+                    "probability": 0.33866873383522034
+                },
+                {
+                    "word": " it.",
+                    "start": 45.96,
+                    "end": 45.96,
+                    "probability": 0.909173846244812
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2300,
+            "start": 45.96,
+            "end": 46.38,
+            "text": " I didn't even look at it.",
+            "tokens": [
+                51515,
+                286,
+                994,
+                380,
+                754,
+                574,
+                412,
+                309,
+                13,
+                51615
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3702409817622258,
+            "compression_ratio": 1.7832512315270936,
+            "no_speech_prob": 0.004213967360556126,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 45.96,
+                    "end": 46.04,
+                    "probability": 0.41446980834007263
+                },
+                {
+                    "word": " didn't",
+                    "start": 46.04,
+                    "end": 46.1,
+                    "probability": 0.9473103284835815
+                },
+                {
+                    "word": " even",
+                    "start": 46.1,
+                    "end": 46.14,
+                    "probability": 0.8797535300254822
+                },
+                {
+                    "word": " look",
+                    "start": 46.14,
+                    "end": 46.24,
+                    "probability": 0.7220163345336914
+                },
+                {
+                    "word": " at",
+                    "start": 46.24,
+                    "end": 46.34,
+                    "probability": 0.3638280928134918
+                },
+                {
+                    "word": " it.",
+                    "start": 46.34,
+                    "end": 46.38,
+                    "probability": 0.9102988839149475
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2300,
+            "start": 47.5,
+            "end": 50.8,
+            "text": " So you didn't see the bonus value, right?",
+            "tokens": [
+                51615,
+                407,
+                291,
+                994,
+                380,
+                536,
+                264,
+                10882,
+                2158,
+                11,
+                558,
+                30,
+                51765
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3702409817622258,
+            "compression_ratio": 1.7832512315270936,
+            "no_speech_prob": 0.004213967360556126,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 47.5,
+                    "end": 48.18,
+                    "probability": 0.8816474080085754
+                },
+                {
+                    "word": " you",
+                    "start": 48.18,
+                    "end": 48.5,
+                    "probability": 0.8776690363883972
+                },
+                {
+                    "word": " didn't",
+                    "start": 48.5,
+                    "end": 49.04,
+                    "probability": 0.6870172321796417
+                },
+                {
+                    "word": " see",
+                    "start": 49.04,
+                    "end": 49.3,
+                    "probability": 0.8294604420661926
+                },
+                {
+                    "word": " the",
+                    "start": 49.3,
+                    "end": 49.74,
+                    "probability": 0.8720399141311646
+                },
+                {
+                    "word": " bonus",
+                    "start": 49.74,
+                    "end": 50.1,
+                    "probability": 0.9090752005577087
+                },
+                {
+                    "word": " value,",
+                    "start": 50.1,
+                    "end": 50.6,
+                    "probability": 0.963360607624054
+                },
+                {
+                    "word": " right?",
+                    "start": 50.6,
+                    "end": 50.8,
+                    "probability": 0.6177524924278259
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2300,
+            "start": 51.72,
+            "end": 52.4,
+            "text": " Yes.",
+            "tokens": [
+                51765,
+                1079,
+                13,
+                51815
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3702409817622258,
+            "compression_ratio": 1.7832512315270936,
+            "no_speech_prob": 0.004213967360556126,
+            "words": [
+                {
+                    "word": " Yes.",
+                    "start": 51.72,
+                    "end": 52.4,
+                    "probability": 0.5314933657646179
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2300,
+            "start": 52.72,
+            "end": 52.98,
+            "text": " Right.",
+            "tokens": [
+                51815,
+                1779,
+                13,
+                51865
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3702409817622258,
+            "compression_ratio": 1.7832512315270936,
+            "no_speech_prob": 0.004213967360556126,
+            "words": [
+                {
+                    "word": " Right.",
+                    "start": 52.72,
+                    "end": 52.98,
+                    "probability": 0.10253071039915085
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 5300,
+            "start": 53.72,
+            "end": 54.98,
+            "text": " Which platform is it?",
+            "tokens": [
+                50365,
+                3013,
+                3663,
+                307,
+                309,
+                30,
+                50465
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4129109119805764,
+            "compression_ratio": 1.703862660944206,
+            "no_speech_prob": 0.0010125847766175866,
+            "words": [
+                {
+                    "word": " Which",
+                    "start": 53.72,
+                    "end": 54.18,
+                    "probability": 0.031108714640140533
+                },
+                {
+                    "word": " platform",
+                    "start": 54.18,
+                    "end": 54.64,
+                    "probability": 0.8927488923072815
+                },
+                {
+                    "word": " is",
+                    "start": 54.64,
+                    "end": 54.78,
+                    "probability": 0.6783009767532349
+                },
+                {
+                    "word": " it?",
+                    "start": 54.78,
+                    "end": 54.98,
+                    "probability": 0.4188547432422638
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "seek": 5300,
+            "start": 56.06,
+            "end": 60.0,
+            "text": " It is Lucky Star. Do you remember which platform it is?",
+            "tokens": [
+                50465,
+                467,
+                307,
+                26639,
+                5705,
+                13,
+                1144,
+                291,
+                1604,
+                597,
+                3663,
+                309,
+                307,
+                30,
+                50715
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4129109119805764,
+            "compression_ratio": 1.703862660944206,
+            "no_speech_prob": 0.0010125847766175866,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 56.06,
+                    "end": 56.52,
+                    "probability": 0.6479697823524475
+                },
+                {
+                    "word": " is",
+                    "start": 56.52,
+                    "end": 56.62,
+                    "probability": 0.37977221608161926
+                },
+                {
+                    "word": " Lucky",
+                    "start": 56.62,
+                    "end": 56.98,
+                    "probability": 0.028927922248840332
+                },
+                {
+                    "word": " Star.",
+                    "start": 56.98,
+                    "end": 57.58,
+                    "probability": 0.2688468396663666
+                },
+                {
+                    "word": " Do",
+                    "start": 57.82,
+                    "end": 58.14,
+                    "probability": 0.8814789652824402
+                },
+                {
+                    "word": " you",
+                    "start": 58.14,
+                    "end": 58.18,
+                    "probability": 0.9966245889663696
+                },
+                {
+                    "word": " remember",
+                    "start": 58.18,
+                    "end": 58.56,
+                    "probability": 0.5744968056678772
+                },
+                {
+                    "word": " which",
+                    "start": 58.56,
+                    "end": 58.9,
+                    "probability": 0.2880195677280426
+                },
+                {
+                    "word": " platform",
+                    "start": 58.9,
+                    "end": 59.3,
+                    "probability": 0.6284843683242798
+                },
+                {
+                    "word": " it",
+                    "start": 59.3,
+                    "end": 60.0,
+                    "probability": 0.44040191173553467
+                },
+                {
+                    "word": " is?",
+                    "start": 60.0,
+                    "end": 60.0,
+                    "probability": 0.9877194166183472
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "seek": 5300,
+            "start": 60.68,
+            "end": 62.62,
+            "text": " I don't remember. Do you have a way to send it to me on WhatsApp?",
+            "tokens": [
+                50715,
+                286,
+                500,
+                380,
+                1604,
+                13,
+                1144,
+                291,
+                362,
+                257,
+                636,
+                281,
+                2845,
+                309,
+                281,
+                385,
+                322,
+                30513,
+                30,
+                50865
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4129109119805764,
+            "compression_ratio": 1.703862660944206,
+            "no_speech_prob": 0.0010125847766175866,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 60.68,
+                    "end": 61.14,
+                    "probability": 0.754047691822052
+                },
+                {
+                    "word": " don't",
+                    "start": 61.14,
+                    "end": 61.24,
+                    "probability": 0.8461695611476898
+                },
+                {
+                    "word": " remember.",
+                    "start": 61.24,
+                    "end": 61.52,
+                    "probability": 0.9034856557846069
+                },
+                {
+                    "word": " Do",
+                    "start": 61.74,
+                    "end": 61.78,
+                    "probability": 0.42426416277885437
+                },
+                {
+                    "word": " you",
+                    "start": 61.78,
+                    "end": 61.82,
+                    "probability": 0.9773005247116089
+                },
+                {
+                    "word": " have",
+                    "start": 61.82,
+                    "end": 61.92,
+                    "probability": 0.5172783136367798
+                },
+                {
+                    "word": " a",
+                    "start": 61.92,
+                    "end": 62.0,
+                    "probability": 0.3004797399044037
+                },
+                {
+                    "word": " way",
+                    "start": 62.0,
+                    "end": 62.1,
+                    "probability": 0.874889075756073
+                },
+                {
+                    "word": " to",
+                    "start": 62.1,
+                    "end": 62.16,
+                    "probability": 0.8583027124404907
+                },
+                {
+                    "word": " send",
+                    "start": 62.16,
+                    "end": 62.26,
+                    "probability": 0.8797653317451477
+                },
+                {
+                    "word": " it",
+                    "start": 62.26,
+                    "end": 62.3,
+                    "probability": 0.3731634020805359
+                },
+                {
+                    "word": " to",
+                    "start": 62.3,
+                    "end": 62.38,
+                    "probability": 0.5807938575744629
+                },
+                {
+                    "word": " me",
+                    "start": 62.38,
+                    "end": 62.44,
+                    "probability": 0.585913360118866
+                },
+                {
+                    "word": " on",
+                    "start": 62.44,
+                    "end": 62.44,
+                    "probability": 0.38845184445381165
+                },
+                {
+                    "word": " WhatsApp?",
+                    "start": 62.44,
+                    "end": 62.62,
+                    "probability": 0.8148564100265503
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "seek": 5300,
+            "start": 63.68,
+            "end": 66.16,
+            "text": " I have a meeting here and I can't speak right now.",
+            "tokens": [
+                50865,
+                286,
+                362,
+                257,
+                3440,
+                510,
+                293,
+                286,
+                393,
+                380,
+                1710,
+                558,
+                586,
+                13,
+                51015
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4129109119805764,
+            "compression_ratio": 1.703862660944206,
+            "no_speech_prob": 0.0010125847766175866,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 63.68,
+                    "end": 64.14,
+                    "probability": 0.3033154308795929
+                },
+                {
+                    "word": " have",
+                    "start": 64.14,
+                    "end": 64.48,
+                    "probability": 0.32755500078201294
+                },
+                {
+                    "word": " a",
+                    "start": 64.48,
+                    "end": 64.56,
+                    "probability": 0.5161110162734985
+                },
+                {
+                    "word": " meeting",
+                    "start": 64.56,
+                    "end": 64.8,
+                    "probability": 0.974943995475769
+                },
+                {
+                    "word": " here",
+                    "start": 64.8,
+                    "end": 65.08,
+                    "probability": 0.5689137578010559
+                },
+                {
+                    "word": " and",
+                    "start": 65.08,
+                    "end": 65.2,
+                    "probability": 0.3307930529117584
+                },
+                {
+                    "word": " I",
+                    "start": 65.2,
+                    "end": 65.32,
+                    "probability": 0.7537786960601807
+                },
+                {
+                    "word": " can't",
+                    "start": 65.32,
+                    "end": 65.58,
+                    "probability": 0.6776023656129837
+                },
+                {
+                    "word": " speak",
+                    "start": 65.58,
+                    "end": 65.96,
+                    "probability": 0.4578343629837036
+                },
+                {
+                    "word": " right",
+                    "start": 65.96,
+                    "end": 66.16,
+                    "probability": 0.1813836246728897
+                },
+                {
+                    "word": " now.",
+                    "start": 66.16,
+                    "end": 66.16,
+                    "probability": 0.994907796382904
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "seek": 5300,
+            "start": 67.4,
+            "end": 71.88,
+            "text": " Is there any other time I could return to you just to be able to pass the information?",
+            "tokens": [
+                51015,
+                1119,
+                456,
+                604,
+                661,
+                565,
+                286,
+                727,
+                2736,
+                281,
+                291,
+                445,
+                281,
+                312,
+                1075,
+                281,
+                1320,
+                264,
+                1589,
+                30,
+                51315
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4129109119805764,
+            "compression_ratio": 1.703862660944206,
+            "no_speech_prob": 0.0010125847766175866,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 67.4,
+                    "end": 67.86,
+                    "probability": 0.5465370416641235
+                },
+                {
+                    "word": " there",
+                    "start": 67.86,
+                    "end": 68.06,
+                    "probability": 0.9975900650024414
+                },
+                {
+                    "word": " any",
+                    "start": 68.06,
+                    "end": 68.24,
+                    "probability": 0.6540252566337585
+                },
+                {
+                    "word": " other",
+                    "start": 68.24,
+                    "end": 68.42,
+                    "probability": 0.967667818069458
+                },
+                {
+                    "word": " time",
+                    "start": 68.42,
+                    "end": 68.62,
+                    "probability": 0.8004305958747864
+                },
+                {
+                    "word": " I",
+                    "start": 68.62,
+                    "end": 68.92,
+                    "probability": 0.40041857957839966
+                },
+                {
+                    "word": " could",
+                    "start": 68.92,
+                    "end": 69.14,
+                    "probability": 0.49485957622528076
+                },
+                {
+                    "word": " return",
+                    "start": 69.14,
+                    "end": 69.8,
+                    "probability": 0.2577347755432129
+                },
+                {
+                    "word": " to",
+                    "start": 69.8,
+                    "end": 70.16,
+                    "probability": 0.7180507779121399
+                },
+                {
+                    "word": " you",
+                    "start": 70.16,
+                    "end": 70.4,
+                    "probability": 0.951798141002655
+                },
+                {
+                    "word": " just",
+                    "start": 70.4,
+                    "end": 70.78,
+                    "probability": 0.2500379979610443
+                },
+                {
+                    "word": " to",
+                    "start": 70.78,
+                    "end": 70.94,
+                    "probability": 0.8653016686439514
+                },
+                {
+                    "word": " be",
+                    "start": 70.94,
+                    "end": 71.2,
+                    "probability": 0.47784265875816345
+                },
+                {
+                    "word": " able",
+                    "start": 71.2,
+                    "end": 71.2,
+                    "probability": 0.9983195662498474
+                },
+                {
+                    "word": " to",
+                    "start": 71.2,
+                    "end": 71.3,
+                    "probability": 0.9976116418838501
+                },
+                {
+                    "word": " pass",
+                    "start": 71.3,
+                    "end": 71.42,
+                    "probability": 0.5237483382225037
+                },
+                {
+                    "word": " the",
+                    "start": 71.42,
+                    "end": 71.6,
+                    "probability": 0.5167779326438904
+                },
+                {
+                    "word": " information?",
+                    "start": 71.6,
+                    "end": 71.88,
+                    "probability": 0.9499546885490417
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "seek": 5300,
+            "start": 73.22000000000001,
+            "end": 74.34,
+            "text": " After 6 p.m.",
+            "tokens": [
+                51315,
+                2381,
+                1386,
+                280,
+                13,
+                76,
+                13,
+                51415
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4129109119805764,
+            "compression_ratio": 1.703862660944206,
+            "no_speech_prob": 0.0010125847766175866,
+            "words": [
+                {
+                    "word": " After",
+                    "start": 73.22000000000001,
+                    "end": 73.68,
+                    "probability": 0.7379932403564453
+                },
+                {
+                    "word": " 6",
+                    "start": 73.68,
+                    "end": 74.02,
+                    "probability": 0.4063705503940582
+                },
+                {
+                    "word": " p",
+                    "start": 74.02,
+                    "end": 74.34,
+                    "probability": 0.21585212647914886
+                },
+                {
+                    "word": ".m.",
+                    "start": 74.34,
+                    "end": 74.34,
+                    "probability": 0.9969108402729034
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "seek": 5300,
+            "start": 75.30000000000001,
+            "end": 78.82,
+            "text": " After 6 p.m. I am only here until 5 p.m.",
+            "tokens": [
+                51415,
+                2381,
+                1386,
+                280,
+                13,
+                76,
+                13,
+                286,
+                669,
+                787,
+                510,
+                1826,
+                1025,
+                280,
+                13,
+                76,
+                13,
+                51615
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4129109119805764,
+            "compression_ratio": 1.703862660944206,
+            "no_speech_prob": 0.0010125847766175866,
+            "words": [
+                {
+                    "word": " After",
+                    "start": 75.30000000000001,
+                    "end": 75.76,
+                    "probability": 0.4287818372249603
+                },
+                {
+                    "word": " 6",
+                    "start": 75.76,
+                    "end": 76.04,
+                    "probability": 0.9670859575271606
+                },
+                {
+                    "word": " p",
+                    "start": 76.04,
+                    "end": 76.3,
+                    "probability": 0.8970133662223816
+                },
+                {
+                    "word": ".m.",
+                    "start": 76.3,
+                    "end": 76.3,
+                    "probability": 0.9991011619567871
+                },
+                {
+                    "word": " I",
+                    "start": 76.36,
+                    "end": 76.5,
+                    "probability": 0.9462535977363586
+                },
+                {
+                    "word": " am",
+                    "start": 76.5,
+                    "end": 76.62,
+                    "probability": 0.11417689174413681
+                },
+                {
+                    "word": " only",
+                    "start": 76.62,
+                    "end": 76.64,
+                    "probability": 0.7354156374931335
+                },
+                {
+                    "word": " here",
+                    "start": 76.64,
+                    "end": 77.08,
+                    "probability": 0.9818663001060486
+                },
+                {
+                    "word": " until",
+                    "start": 77.08,
+                    "end": 77.38,
+                    "probability": 0.9546633958816528
+                },
+                {
+                    "word": " 5",
+                    "start": 77.38,
+                    "end": 77.7,
+                    "probability": 0.7182119488716125
+                },
+                {
+                    "word": " p",
+                    "start": 77.7,
+                    "end": 78.3,
+                    "probability": 0.04595944657921791
+                },
+                {
+                    "word": ".m.",
+                    "start": 78.3,
+                    "end": 78.82,
+                    "probability": 0.9993284046649933
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "seek": 5300,
+            "start": 78.82,
+            "end": 79.6,
+            "text": " I couldn't get to this time?",
+            "tokens": [
+                51615,
+                286,
+                2809,
+                380,
+                483,
+                281,
+                341,
+                565,
+                30,
+                51715
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4129109119805764,
+            "compression_ratio": 1.703862660944206,
+            "no_speech_prob": 0.0010125847766175866,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 78.82,
+                    "end": 78.96,
+                    "probability": 0.18521720170974731
+                },
+                {
+                    "word": " couldn't",
+                    "start": 78.96,
+                    "end": 79.3,
+                    "probability": 0.6642725914716721
+                },
+                {
+                    "word": " get",
+                    "start": 79.3,
+                    "end": 79.3,
+                    "probability": 0.14514365792274475
+                },
+                {
+                    "word": " to",
+                    "start": 79.3,
+                    "end": 79.3,
+                    "probability": 0.3010857105255127
+                },
+                {
+                    "word": " this",
+                    "start": 79.3,
+                    "end": 79.42,
+                    "probability": 0.4675300717353821
+                },
+                {
+                    "word": " time?",
+                    "start": 79.42,
+                    "end": 79.6,
+                    "probability": 0.9639816880226135
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "seek": 5300,
+            "start": 81.38000000000001,
+            "end": 82.8,
+            "text": " All right, all right, thank you.",
+            "tokens": [
+                51715,
+                1057,
+                558,
+                11,
+                439,
+                558,
+                11,
+                1309,
+                291,
+                13,
+                51815
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4129109119805764,
+            "compression_ratio": 1.703862660944206,
+            "no_speech_prob": 0.0010125847766175866,
+            "words": [
+                {
+                    "word": " All",
+                    "start": 81.38000000000001,
+                    "end": 81.84,
+                    "probability": 0.11316167563199997
+                },
+                {
+                    "word": " right,",
+                    "start": 81.84,
+                    "end": 82.06,
+                    "probability": 0.9846780300140381
+                },
+                {
+                    "word": " all",
+                    "start": 82.1,
+                    "end": 82.28,
+                    "probability": 0.4928435981273651
+                },
+                {
+                    "word": " right,",
+                    "start": 82.28,
+                    "end": 82.5,
+                    "probability": 0.9985142350196838
+                },
+                {
+                    "word": " thank",
+                    "start": 82.5,
+                    "end": 82.64,
+                    "probability": 0.5595300197601318
+                },
+                {
+                    "word": " you.",
+                    "start": 82.64,
+                    "end": 82.8,
+                    "probability": 0.9977031350135803
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "seek": 8280,
+            "start": 82.8,
+            "end": 85.24,
+            "text": " All right, I thank you. Bye, bye.",
+            "tokens": [
+                50365,
+                1057,
+                558,
+                11,
+                286,
+                1309,
+                291,
+                13,
+                4621,
+                11,
+                6543,
+                13,
+                50515
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5450896876198905,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.010010733269155025,
+            "words": [
+                {
+                    "word": " All",
+                    "start": 82.8,
+                    "end": 83.42,
+                    "probability": 0.018094521015882492
+                },
+                {
+                    "word": " right,",
+                    "start": 83.42,
+                    "end": 83.74,
+                    "probability": 0.8666103482246399
+                },
+                {
+                    "word": " I",
+                    "start": 83.74,
+                    "end": 83.9,
+                    "probability": 0.38877347111701965
+                },
+                {
+                    "word": " thank",
+                    "start": 83.9,
+                    "end": 84.14,
+                    "probability": 0.5277539491653442
+                },
+                {
+                    "word": " you.",
+                    "start": 84.14,
+                    "end": 84.46,
+                    "probability": 0.9977619647979736
+                },
+                {
+                    "word": " Bye,",
+                    "start": 84.66,
+                    "end": 85.06,
+                    "probability": 0.6649584174156189
+                },
+                {
+                    "word": " bye.",
+                    "start": 85.12,
+                    "end": 85.24,
+                    "probability": 0.9367191791534424
+                }
+            ]
+        }
+    ],
+    "language": "pt"
+}
